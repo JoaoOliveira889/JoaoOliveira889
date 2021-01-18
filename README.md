@@ -20,14 +20,14 @@ Here are a few things I've picked up along my learning journey.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveira88809&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpoliveira8809&layout=compact"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jpoliveira88809&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      src="https://github-readme-stats.vercel.app/api?username=jpoliveira8809&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -38,9 +38,3 @@ Here are a few things I've picked up along my learning journey.
 <a href="https://linkedin.com/in/jpoliveira8809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jpoliveira8809" height="30" width="40" /></a>
 <a href="https://instagram.com/jpoliveira8809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jpoliveira8809" height="30" width="40" /></a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jpoliveira8809&show_icons=true&locale=en&layout=compact" alt="jpoliveira8809" />
-<img src="https://github-readme-stats.vercel.app/api?username=jpoliveira8809&show_icons=true&locale=en" alt="jpoliveira8809" />
-</p>
-
