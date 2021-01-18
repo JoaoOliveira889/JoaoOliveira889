@@ -26,7 +26,7 @@ Here are a few things I've picked up along my learning journey.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
+      height="160"
       src="https://github-readme-stats.vercel.app/api?username=jpoliveira8809&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
@@ -34,7 +34,7 @@ Here are a few things I've picked up along my learning journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jpoliveira8809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jpoliveira8809" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jpoliveira8809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jpoliveira8809" height="30" width="40" /></a>
-<a href="https://instagram.com/jpoliveira8809" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jpoliveira8809" height="30" width="40" /></a>
+<a href="https://twitter.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jpoliveira8809" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jpoliveira8809" height="30" width="40" /></a>
+<a href="https://instagram.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jpoliveira8809" height="30" width="40" /></a>
 </p>
