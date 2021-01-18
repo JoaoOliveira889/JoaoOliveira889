@@ -26,7 +26,7 @@ Here are a few things I've picked up along my learning journey.
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="160"
+      height="170"
       src="https://github-readme-stats.vercel.app/api?username=jpoliveira8809&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
