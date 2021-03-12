@@ -2,17 +2,17 @@
 <h3 align="center">I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> </h3>
 
 * 👨🏻‍💻 Developer with more then 2 years experience
-* 🏛 I am currently working as a Full Stack Developer at Sicoob Divicred!
+* 🏛 I am currently working as a .Net Core Developer at Raro Labs - Banco BMG
 * 📚 I’m currently learning everything 🤣
 * 💡 I love innovation and new technologies
 
 <h2 align="center">Tech Stack</h2>
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 C# | JS
+* 🗣 C# | JS | TS
 * 🌐 HTML5 | CSS3
 * 🖇️ .Net | Bootstrap 
-* 🗄 MySQL
+* 🗄 MySQL | Oracle
 * :octocat: Git | Github
 * ☁ Azure
 
