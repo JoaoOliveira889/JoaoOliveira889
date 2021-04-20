@@ -2,7 +2,7 @@
 <h3 align="center">I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> </h3>
 
 * 👨🏻‍💻 Developer with more then 2 years experience
-* 🏛 I am currently working as a .Net Core Developer at Raro Labs - Banco BMG
+* 🏛 I am currently working as a .Net Core Developer at Havan Labs
 * 📚 I’m currently learning everything 🤣
 * 💡 I love innovation and new technologies
 
