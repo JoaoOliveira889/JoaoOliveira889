@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm João (John)</h1>
 <h3 align="center">I'm a full stack <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> </h3>
 
-* 👨🏻‍💻 Developer with more then 3 years experience
-* 🏛 I am currently working as a .Net Core Developer at NTT Data
+* 👨‍💻 Developer with more then 3 years experience
+* 💸 I am currently working as a .Net Core Developer at NTT Data
 * 📚 I’m currently learning everything 🤣
 * 💡 I love innovation and new technologies
 
 <h2 align="center">Tech Stack</h2>
 Here are a few things I've picked up along my learning journey.
 
-* 🗣 C# | JavaScript | TypeScript 
+* ⌨️ C# | JavaScript | TypeScript 
 * 🌐 HTML5 | CSS3
-* 🖇️ .Net | Bootstrap | Angular
+* 🛠️ .Net | Bootstrap | Angular
 * 🗄 MySQL | Oracle | Sql Server | PostgreSql
 * :octocat: Git | Github
 * ☁ Azure
