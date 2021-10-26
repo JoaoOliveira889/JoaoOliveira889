@@ -34,7 +34,7 @@ Here are a few things I've picked up along my learning journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504839.png?token=exp=1635263893~hmac=27bcc0b5bdee8ced2869ccfb12d0623e" alt="jpoliveira8809" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jpoliveira8809" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="jpoliveira8809" height="30" width="40" /></a>
-<a href="https://instagram.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1635263926~hmac=0f3ba23a6dc79ee0ad3cb8e5d71b0650" alt="jpoliveira8809" height="30" width="40" /></a>
+<a href="https://twitter.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/2504/premium/2504839.png?token=exp=1635263893~hmac=27bcc0b5bdee8ced2869ccfb12d0623e" alt="jpoliveira8809" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/jpoliveira8809" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" alt="jpoliveira8809" height="40" width="40" /></a>
+<a href="https://instagram.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn-icons.flaticon.com/png/512/3955/premium/3955024.png?token=exp=1635263926~hmac=0f3ba23a6dc79ee0ad3cb8e5d71b0650" alt="jpoliveira8809" height="40" width="40" /></a>
 </p>
