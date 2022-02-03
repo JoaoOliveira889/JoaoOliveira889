@@ -34,7 +34,7 @@ Here are a few things I've picked up along my learning journey.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_Twitter_38.png" alt="jpoliveira8809" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" alt="jpoliveira8809" height="40" width="40" /></a>
-<a href="https://instagram.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2428/PNG/512/instagram_black_logo_icon_147122.png" alt="jpoliveira8809" height="40" width="40" /></a>
+<a href="https://twitter.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="jpoliveira8809" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="jpoliveira8809" height="40" width="40" /></a>
+<a href="https://instagram.com/jpoliveira8809" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="jpoliveira8809" height="40" width="40" /></a>
 </p>
