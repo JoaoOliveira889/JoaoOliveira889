@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm João (John)</h1>
-<h3 align="center">I'm a backend <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 /> </h3>
+#Hi 🖖🏼 I'm João!
+<br>
 
-* 👨‍💻 Developer with more then 4 years experience
-* 💸 I am currently working as a .Net Core Developer at Stefanini Group
-* 📚 I’m currently learning everything 🤣
-* 💡 I love innovation and new technologies
+<p>My name is João Oliveira. I've been passionate about technology since childhood, I always liked is learn and discovering how things work. My focus is on the backend development, with C# and .Net, but I love studying new languages, and technologies, mainly about the best practices, patterns, and infrastructure.
+</p>
+<p>Alway that possible, I'm contributing to the community. I create content about development and technology over the Medium, LinkedIn and Twitter, you can find all these links below.</p>
 
-<h2 align="center">Tech Stack</h2>
-Here are a few things I've picked up along my learning journey.
+<br>
+
+### Find my content
+[![Medium](https://img.shields.io/badge/JoaoOliveira889-0A0A0A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@joaooliveira889)
+[![Twitter](https://img.shields.io/badge/JoaoOliveira889-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/joaooliveira889)
+[![LinkedIn](https://img.shields.io/badge/JoaoOliveira889-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaooliveira889)
+
+### Here are a few things I've picked up along my learning journey.
 
 * ⌨️ C# | JavaScript | TypeScript 
 * 🌐 HTML5 | CSS3
@@ -16,25 +21,10 @@ Here are a few things I've picked up along my learning journey.
 * :octocat: Git | Github | Gitlab
 * ☁ Azure | AWS
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira889&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="142"
-      src="https://github-readme-stats.vercel.app/api?username=JoaoOliveira889&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/JoaoOliveira889" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/122/PNG/512/twitter_socialnetwork_20007.png" alt="JoaoOliveira889" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/JoaoOliveira889" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/805/PNG/512/linkedin_icon-icons.com_65929.png" alt="JoaoOliveira889" height="40" width="40" /></a>
-<a href="https://instagram.com/Joao.Oliveira889" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png" alt="JoaoOliveira889" height="40" width="40" /></a>
-</p>
+## GitHub Stats
+<a href="https://github.com/JoaoOliveira889">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api?username=JoaoOliveira889&show_icons=true&theme=dracula">
+</a>
+<a href="https://github.com/JoaoOliveira889">
+  <img align="center" height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoOliveira889&layout=compact&theme=dracula">
+</a>
