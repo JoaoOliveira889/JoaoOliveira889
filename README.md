@@ -1,12 +1,53 @@
+# Hi, I'm João Oliveira
 
-I’m Joao Oliveira, a Senior Software Engineer with 7 years of experience dedicated to architecting and delivering high-performance, scalable systems. While my core expertise lies in the C#/.NET ecosystem, my background as a FullStack Developer (Angular/JavaScript) allows me to maintain a comprehensive view of the entire software lifecycle.
+![Senior Software Engineer](https://img.shields.io/badge/Role-Senior%20Software%20Engineer-blue) ![Experience](https://img.shields.io/badge/Experience-7%2B%20Years-green) ![Location](https://img.shields.io/badge/Location-Brazil-yellow)
 
-I specialize in System Design and building resilient architectures using Microservices, Message Brokers (Kafka, SNS, SQS), and Cloud infrastructure (AWS/Docker). I am a firm believer in the "Test-Driven" mindset, utilizing xUnit for unit/integration testing and JMeter for performance benchmarking to ensure mission-critical stability.
+I am a **Senior Software Engineer** dedicated to architecting and delivering high-performance, scalable systems. With over 7 years of experience, I specialize in the **C#/.NET ecosystem**, while maintaining a comprehensive view of the software lifecycle through my background in FullStack development.
 
-Technical Strategy & Stack:
-* Databases & Caching: Expert knowledge in SQL (PostgreSQL, Oracle, SQL Server) and NoSQL (MongoDB), leveraging Redis for distributed caching and performance optimization.
-* DevOps & Observability: Building automated pipelines and monitoring system health through Kibana and Splunk.
-* Architecture & Design: Focused on scalability, clean code, and robust System Design patterns to support high-traffic environments.
-* Academic Background: Bachelor’s in Information Systems, Post-grad in IT Governance, and an MBA in Leadership and Innovation.
+---
 
-I am passionate about solving complex architectural challenges and sharing those insights through technical writing and team mentorship. I believe that technical excellence and strategic leadership are the keys to building software that doesn't just work, but scales.
+### Specialized Expertise
+
+* **System Design:** Architecting resilient Microservices and Event-Driven systems.
+* **Messaging & Streams:** Proficient in Redis, Kafka, SNS, and SQS for distributed communication.
+* **Performance Engineering:** A "Test-Driven" advocate utilizing xUnit for reliability and **JMeter** for performance benchmarking.
+* **Cloud & DevOps:** Building and scaling infrastructure using AWS, Docker, and CI/CD pipelines.
+
+---
+
+### Tech Stack
+
+| Category           | Tools & Technologies                           |
+| :----------------- | :--------------------------------------------- |
+| **Languages**      | C#, Go, JavaScript, TypeScript                 |
+| **Backend**        | .NET, Go, Web API, Minimal APIs, Microservices |
+| **Frontend**       | Angular                                        |
+| **Databases**      | PostgreSQL, SQL Server, Oracle, MongoDB, Redis |
+| **Infrastructure** | AWS, Docker, Kafka, SQS/SNS                    |
+| **Observability**  | Kibana, Splunk, Grafana                        |
+
+---
+
+### Technical Writing & Education
+
+I am passionate about solving complex architectural challenges and sharing those insights through my blog.
+
+* **Recent Articles:** [joaooliveira.net](https://joaooliveira.net)
+* **Academic:** 
+	* Bachelor’s in Information Systems.
+    * Post-grad in IT Governance.
+    * MBA in Leadership and Innovation.
+
+---
+
+### Let's Connect
+
+- **Blog:** [joaooliveira.net](https://joaooliveira.net)
+- **LinkedIn:** [https://www.linkedin.com/in/joaooliveira889/](https://www.linkedin.com/in/joaooliveira889/)
+- **DevTo**: [https://dev.to/joaooliveiratech](https://dev.to/joaooliveiratech)
+- **Github**: [https://github.com/JoaoOliveira889](https://github.com/JoaoOliveira889)
+- **Email:** contatojoaooliveiradev@gmail.com
+
+---
+
+> Technical excellence and strategic leadership are the keys to building software that doesn't just work, but scales.
